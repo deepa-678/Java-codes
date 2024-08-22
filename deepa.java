@@ -1,4 +1,4 @@
-class Polygon {
+{class Polygon {
 
   // method to render a shape
   public void render() {
@@ -33,4 +33,4 @@ class Main {
     Circle c1 = new Circle();
     c1.render();
   }
-}
+}}
